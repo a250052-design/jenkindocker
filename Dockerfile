@@ -1,4 +1,4 @@
-FROM OpenJDK:latest
+FROM openjdk:latest
 
 WORKDIR /app
 
