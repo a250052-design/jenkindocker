@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        PROJECT_PATH = "D:\Krupa28\ProjectDir\exp2"
+        PROJECT_PATH = "D:\Krupa28\ProjectDir\expgit"
         IMAGE_NAME = "my-java-app"
         CONTAINER_NAME = "java-container"
     }
